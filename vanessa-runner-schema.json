@@ -680,8 +680,8 @@
 					"type": "string"
 				},
 				"--out": {
-					"default": "./1C8.cf",
-					"description": "Путь к файлу cf (*.cf)",
+					"default": "",
+					"description": "Путь к файлу cf (*.cf), например ./1C8.cf",
 					"id": "/properties/compile/properties/--out",
 					"title": "The --out Schema",
 					"type": "string"
